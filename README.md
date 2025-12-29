@@ -39,7 +39,7 @@ Library yang Digunakan, Program memanfaatkan beberapa library pendukung, yaitu:
 
 ## Flowchart Program
 
-![FlowChart] (https://github.com/maysaazhra/TugasBesarAnalisisKompleksitasAlgoritma-KalkulatorHoki/edit/main/README.md/Flowchart Struktur Program.png)
+![FlowChart] (https://raw.github.com/maysaazhra/TugasBesarAnalisisKompleksitasAlgoritma-KalkulatorHoki/edit/main/README.md/Flowchart Struktur Program.png)
 
 # Deskripsi Algoritma yang Dipilih
 - Algoritma Iteratif
