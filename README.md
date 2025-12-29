@@ -40,7 +40,6 @@ Library yang Digunakan, Program memanfaatkan beberapa library pendukung, yaitu:
 ## Flowchart Program
 
 ![Flowchart Program](flowchart_program.png)
-
 # Deskripsi Algoritma yang Dipilih
 - Algoritma Iteratif
 Algoritma iteratif menghitung total nilai nama menggunakan perulangan. Setiap huruf diproses satu per satu dan nilainya ditambahkan ke dalam variabel akumulator. Pendekatan ini sederhana dan efisien dalam penggunaan memori karena tidak melibatkan pemanggilan fungsi berulang. Kompleksitas waktu algoritma iteratif adalah O(n), dengan n merupakan jumlah huruf pada nama.
